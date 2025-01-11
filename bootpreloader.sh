@@ -10,5 +10,6 @@ plstage() {
   python mtk.py plstage --preloader=preloader_k65v1_64_bsp.bin
 }
 
+install
 source_env
 plstage
